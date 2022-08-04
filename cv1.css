@@ -1,0 +1,42 @@
+body{
+    background-image: url(coding.jpg);
+}
+.personal-details{
+    border: 1px solid white;
+    border-radius: 20px;
+    width: 500px;
+    margin: 0 auto;
+    padding: 0px 25px;
+    padding-bottom: 16px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.pd-img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    opacity: 0.9;
+    margin: 10px auto;
+}
+.nextpages{
+    border-radius: 100px;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    color: white;
+    text-decoration: underline;
+}
+.qualifications{
+    color: orange;
+    background-color: black;
+    border: 1px solid white;
+    cursor: pointer;
+}
+h1{
+    text-decoration: underline;
+}
+h3{
+    text-decoration: underline;
+}
